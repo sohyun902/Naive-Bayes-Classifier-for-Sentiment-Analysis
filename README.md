@@ -1,4 +1,6 @@
 # Naive Bayes Classifier for Sentifment Analysis
+It is a project of Introduction to Artificial Intellignece. Spring 2024.
+
 There are two files for sentiment analysis. A NaiveBayesClassifier class was implemented in 'NaiveBayesClassifier.py'. 'NaiveBayes test.ipynb' is for testing the performance of the model implemented in the 'NaiveBayesClassifier.py'. You can get accuracy score of it by applying 'train.csv' and 'test.csv' files. Also, you can know how the accuracy of the model changes when the size of the 'train.csv' file changes through the .ipynb file.
 
 ## Use Guide
